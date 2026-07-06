@@ -1,5 +1,6 @@
-# executive-sales-performance-dashboard
+# Executive Sales Performance Dashboard
 An interactive Power BI dashboard providing executive insights into sales, products, and customer performance.
+
 ## Project Overview
 
 This Power BI dashboard was developed to provide executives with a comprehensive view of business performance. It enables stakeholders to monitor revenue, profit, customer behaviour, product performance, and regional sales through interactive visualizations and dynamic KPIs.
