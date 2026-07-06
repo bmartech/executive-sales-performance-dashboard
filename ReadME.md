@@ -134,7 +134,7 @@ Dashboard/
 - Executive Sales Dashboard.pbix
 
 Dataset/
-- KCC Customer and Orders.csv
+- KCC Customer and Orders.xlsx
 
 Documentation/
 - Business Case.md
