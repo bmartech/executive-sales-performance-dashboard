@@ -192,7 +192,7 @@ Data Analyst | Business Intelligence Developer | Statistician
 
 I enjoy transforming raw data into meaningful insights through interactive dashboards, business intelligence solutions, and data storytelling.
 
-GitHub: *https://github.com/bmartech/bmartech.github.io*
+GitHub: *https://github.com/bmartech/bmartech*
 
 LinkedIn: *https://www.linkedin.com/in/mfbalogun*
 
