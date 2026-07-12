@@ -188,7 +188,9 @@ Executive Sales Performance Dashboard
 
 **Martins F. Balogun**
 
-Data Analyst
+Data Analyst | Business Intelligence Developer | Statistician
+
+I enjoy transforming raw data into meaningful insights through interactive dashboards, business intelligence solutions, and data storytelling.
 
 GitHub: *https://github.com/bmartech/bmartech.github.io*
 
